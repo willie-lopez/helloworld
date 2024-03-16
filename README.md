@@ -1,2 +1,6 @@
-# msse661
-Willie's MSSE661 class projects.
+
+Willie Lopez
+Regis University Anderson College, Software Engineering
+MSSE661 class assignments repository.
+lope565@regis.edu
+
